@@ -56,7 +56,7 @@ git init
 git add README.md .gitignore src demo.jl test docs
 git commit -m "Hoan thanh de tai va bang chung"
 git branch -M main
-git remote add origin https://github.com/TEN_TAI_KHOAN/TEN_REPO.git
+git remote add origin https://github.com/baoiu1238-sudo/DT006.git
 git push -u origin main
 git rev-parse HEAD
 ```
@@ -64,8 +64,8 @@ git rev-parse HEAD
 Clone vào thư mục mới chưa tồn tại rồi chạy lại:
 
 ```powershell
-git clone https://github.com/TEN_TAI_KHOAN/TEN_REPO.git kiem_tra_ban_nop_MSSV
-cd kiem_tra_ban_nop_MSSV
+git clone https://github.com/baoiu1238-sudo/DT006.git kiem_tra_ban_nop_N24DCDT008
+cd kiem_tra_ban_nop_N24DCDT008
 git rev-parse HEAD
 julia --version
 julia --startup-file=no demo.jl
