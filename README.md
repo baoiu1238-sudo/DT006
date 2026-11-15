@@ -11,8 +11,7 @@ mẫu BFS cho đề tài của mình. Chỉ hoàn thành sau khi thay đúng log
 - Giáo trình: `Giao-trinh-Cau-truc-du-lieu-va-Giai-thuat-INT1306.pdf`.
 - Chương, mục, bài tập, trang in và trang PDF đúng đề: `Chương 1, Mục 1.1.9; mục 1.6 bài 15; trang in 9–10, 31; trang PDF 21–22, 43`.
 - URL GitHub thật: `https://github.com/baoiu1238-sudo/DT006`; SHA chạy C ghi trong báo cáo và TXT nộp rời.
-- Permalink tệp thuật toán tại C: ghi trong báo cáo/TXT; phiên bản Julia: `https://github.com/baoiu1238-sudo/DT006/blob/13b960b191aa18de6761ae8e776eb128df50f893/src/DeTai.jl và 
-https://github.com/baoiu1238-sudo/DT006/blob/13b960b191aa18de6761ae8e776eb128df50f893/test/runtests.jl; julia 1.12.7.
+- Permalink tệp thuật toán tại C: ghi trong báo cáo/TXT; phiên bản Julia: 'julia 1.12.7'.
 
 ## Việc phải thay trước khi nộp
 
