@@ -49,7 +49,7 @@ Không đổi lỗi TODO thành `@test true` hoặc in “Pass” để thay cho
 
 ## Công bố mã và kiểm tra bản clone
 
-Tạo repo của mình trên GitHub. Thay `TEN_TAI_KHOAN`, `TEN_REPO` trước khi chạy:
+Tạo repo của mình trên GitHub. Thay `baoiu1238-sudo`, `DT006` trước khi chạy:
 
 ```powershell
 git init
